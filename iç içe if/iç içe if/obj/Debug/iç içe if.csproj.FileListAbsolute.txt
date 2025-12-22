@@ -1,0 +1,9 @@
+C:\Users\MİTHAT BOYNER\Desktop\iç içe if\iç içe if\bin\Debug\iç içe if.exe.config
+C:\Users\MİTHAT BOYNER\Desktop\iç içe if\iç içe if\obj\Debug\iç içe if.csprojResolveAssemblyReference.cache
+C:\Users\MİTHAT BOYNER\Desktop\iç içe if\iç içe if\obj\Debug\iç_içe_if.Form1.resources
+C:\Users\MİTHAT BOYNER\Desktop\iç içe if\iç içe if\obj\Debug\iç_içe_if.Properties.Resources.resources
+C:\Users\MİTHAT BOYNER\Desktop\iç içe if\iç içe if\obj\Debug\iç içe if.csproj.GenerateResource.Cache
+C:\Users\MİTHAT BOYNER\Desktop\iç içe if\iç içe if\bin\Debug\iç içe if.exe
+C:\Users\MİTHAT BOYNER\Desktop\iç içe if\iç içe if\bin\Debug\iç içe if.pdb
+C:\Users\MİTHAT BOYNER\Desktop\iç içe if\iç içe if\obj\Debug\iç içe if.exe
+C:\Users\MİTHAT BOYNER\Desktop\iç içe if\iç içe if\obj\Debug\iç içe if.pdb
