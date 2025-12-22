@@ -1,0 +1,9 @@
+C:\Users\MİTHAT BOYNER\Desktop\if else\if else\bin\Debug\if else.exe.config
+C:\Users\MİTHAT BOYNER\Desktop\if else\if else\obj\Debug\if else.csprojResolveAssemblyReference.cache
+C:\Users\MİTHAT BOYNER\Desktop\if else\if else\obj\Debug\if_else.Form1.resources
+C:\Users\MİTHAT BOYNER\Desktop\if else\if else\obj\Debug\if_else.Properties.Resources.resources
+C:\Users\MİTHAT BOYNER\Desktop\if else\if else\obj\Debug\if else.csproj.GenerateResource.Cache
+C:\Users\MİTHAT BOYNER\Desktop\if else\if else\bin\Debug\if else.exe
+C:\Users\MİTHAT BOYNER\Desktop\if else\if else\bin\Debug\if else.pdb
+C:\Users\MİTHAT BOYNER\Desktop\if else\if else\obj\Debug\if else.exe
+C:\Users\MİTHAT BOYNER\Desktop\if else\if else\obj\Debug\if else.pdb

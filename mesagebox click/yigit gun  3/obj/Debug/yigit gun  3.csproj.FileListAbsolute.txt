@@ -1,0 +1,12 @@
+C:\Users\MİTHAT BOYNER\Desktop\yigit\yigit gun  3\yigit gun  3\bin\Debug\yigit gun  3.exe.config
+C:\Users\MİTHAT BOYNER\Desktop\yigit\yigit gun  3\yigit gun  3\bin\Debug\yigit gun  3.exe
+C:\Users\MİTHAT BOYNER\Desktop\yigit\yigit gun  3\yigit gun  3\bin\Debug\yigit gun  3.pdb
+C:\Users\MİTHAT BOYNER\Desktop\yigit\yigit gun  3\yigit gun  3\obj\Debug\yigit gun  3.csprojResolveAssemblyReference.cache
+C:\Users\MİTHAT BOYNER\Desktop\yigit\yigit gun  3\yigit gun  3\obj\Debug\yigit_gun__3.Form1.resources
+C:\Users\MİTHAT BOYNER\Desktop\yigit\yigit gun  3\yigit gun  3\obj\Debug\yigit_gun__3.Properties.Resources.resources
+C:\Users\MİTHAT BOYNER\Desktop\yigit\yigit gun  3\yigit gun  3\obj\Debug\yigit gun  3.csproj.GenerateResource.Cache
+C:\Users\MİTHAT BOYNER\Desktop\yigit\yigit gun  3\yigit gun  3\obj\Debug\yigit gun  3.exe
+C:\Users\MİTHAT BOYNER\Desktop\yigit\yigit gun  3\yigit gun  3\obj\Debug\yigit gun  3.pdb
+C:\Users\MİTHAT BOYNER\Desktop\yigit gun  3\yigit gun  3\bin\Debug\yigit gun  3.exe.config
+C:\Users\MİTHAT BOYNER\Desktop\yigit gun  3\yigit gun  3\obj\Debug\yigit gun  3.exe
+C:\Users\MİTHAT BOYNER\Desktop\yigit gun  3\yigit gun  3\obj\Debug\yigit gun  3.pdb
