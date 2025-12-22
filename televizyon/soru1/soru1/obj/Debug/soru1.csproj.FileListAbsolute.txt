@@ -1,0 +1,6 @@
+C:\Users\MİTHAT BOYNER\Desktop\televizyon\soru1\soru1\bin\Debug\soru1.exe.config
+C:\Users\MİTHAT BOYNER\Desktop\televizyon\soru1\soru1\bin\Debug\soru1.exe
+C:\Users\MİTHAT BOYNER\Desktop\televizyon\soru1\soru1\bin\Debug\soru1.pdb
+C:\Users\MİTHAT BOYNER\Desktop\televizyon\soru1\soru1\obj\Debug\soru1.csprojResolveAssemblyReference.cache
+C:\Users\MİTHAT BOYNER\Desktop\televizyon\soru1\soru1\obj\Debug\soru1.exe
+C:\Users\MİTHAT BOYNER\Desktop\televizyon\soru1\soru1\obj\Debug\soru1.pdb

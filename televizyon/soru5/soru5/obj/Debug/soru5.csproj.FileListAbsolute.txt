@@ -1,0 +1,2 @@
+C:\Users\MİTHAT BOYNER\Desktop\televizyon\soru5\soru5\bin\Debug\soru5.exe.config
+C:\Users\MİTHAT BOYNER\Desktop\televizyon\soru5\soru5\obj\Debug\soru5.csprojResolveAssemblyReference.cache
