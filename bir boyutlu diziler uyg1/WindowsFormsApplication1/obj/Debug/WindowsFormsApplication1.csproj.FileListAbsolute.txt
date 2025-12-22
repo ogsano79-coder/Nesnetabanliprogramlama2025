@@ -1,0 +1,24 @@
+C:\Users\MİTHAT BOYNER\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\MİTHAT BOYNER\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\MİTHAT BOYNER\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\MİTHAT BOYNER\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\MİTHAT BOYNER\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\MİTHAT BOYNER\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\MİTHAT BOYNER\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\MİTHAT BOYNER\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\MİTHAT BOYNER\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\MİTHAT BOYNER\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\pa-Guru\WindowsFormsApplication1.resources.dll
+C:\Users\MİTHAT BOYNER\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.pa-Guru.resources
+C:\Users\MİTHAT BOYNER\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\pa-Guru\WindowsFormsApplication1.resources.dll
+C:\Users\MİTHAT BOYNER\Desktop\bir boyutlu diziler uyg1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\MİTHAT BOYNER\Desktop\bir boyutlu diziler uyg1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\MİTHAT BOYNER\Desktop\bir boyutlu diziler uyg1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\MİTHAT BOYNER\Desktop\bir boyutlu diziler uyg1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\MİTHAT BOYNER\Desktop\bir boyutlu diziler uyg1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\MİTHAT BOYNER\Desktop\bir boyutlu diziler uyg1\WindowsFormsApplication1\bin\Debug\pa-Guru\WindowsFormsApplication1.resources.dll
+C:\Users\MİTHAT BOYNER\Desktop\bir boyutlu diziler uyg1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\MİTHAT BOYNER\Desktop\bir boyutlu diziler uyg1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\MİTHAT BOYNER\Desktop\bir boyutlu diziler uyg1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\MİTHAT BOYNER\Desktop\bir boyutlu diziler uyg1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.pa-Guru.resources
+C:\Users\MİTHAT BOYNER\Desktop\bir boyutlu diziler uyg1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\MİTHAT BOYNER\Desktop\bir boyutlu diziler uyg1\WindowsFormsApplication1\obj\Debug\pa-Guru\WindowsFormsApplication1.resources.dll
