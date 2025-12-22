@@ -1,0 +1,12 @@
+C:\Users\MİTHAT BOYNER\Desktop\yıgıt gun 6\gun 6\gun 6\bin\Debug\gun 6.exe.config
+C:\Users\MİTHAT BOYNER\Desktop\yıgıt gun 6\gun 6\gun 6\bin\Debug\gun 6.exe
+C:\Users\MİTHAT BOYNER\Desktop\yıgıt gun 6\gun 6\gun 6\bin\Debug\gun 6.pdb
+C:\Users\MİTHAT BOYNER\Desktop\yıgıt gun 6\gun 6\gun 6\obj\Debug\gun 6.csprojResolveAssemblyReference.cache
+C:\Users\MİTHAT BOYNER\Desktop\yıgıt gun 6\gun 6\gun 6\obj\Debug\gun_6.Form1.resources
+C:\Users\MİTHAT BOYNER\Desktop\yıgıt gun 6\gun 6\gun 6\obj\Debug\gun_6.Properties.Resources.resources
+C:\Users\MİTHAT BOYNER\Desktop\yıgıt gun 6\gun 6\gun 6\obj\Debug\gun 6.csproj.GenerateResource.Cache
+C:\Users\MİTHAT BOYNER\Desktop\yıgıt gun 6\gun 6\gun 6\obj\Debug\gun 6.exe
+C:\Users\MİTHAT BOYNER\Desktop\yıgıt gun 6\gun 6\gun 6\obj\Debug\gun 6.pdb
+C:\Users\MİTHAT BOYNER\Desktop\gun 6\gun 6\bin\Debug\gun 6.exe.config
+C:\Users\MİTHAT BOYNER\Desktop\gun 6\gun 6\obj\Debug\gun 6.exe
+C:\Users\MİTHAT BOYNER\Desktop\gun 6\gun 6\obj\Debug\gun 6.pdb
