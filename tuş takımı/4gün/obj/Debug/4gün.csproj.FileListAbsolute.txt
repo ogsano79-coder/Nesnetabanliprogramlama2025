@@ -1,0 +1,12 @@
+C:\Users\MİTHAT BOYNER\Desktop\yigit 4\4gün\4gün\bin\Debug\4gün.exe.config
+C:\Users\MİTHAT BOYNER\Desktop\yigit 4\4gün\4gün\obj\Debug\4gün.csprojResolveAssemblyReference.cache
+C:\Users\MİTHAT BOYNER\Desktop\yigit 4\4gün\4gün\obj\Debug\_4gün.Form1.resources
+C:\Users\MİTHAT BOYNER\Desktop\yigit 4\4gün\4gün\obj\Debug\_4gün.Properties.Resources.resources
+C:\Users\MİTHAT BOYNER\Desktop\yigit 4\4gün\4gün\obj\Debug\4gün.csproj.GenerateResource.Cache
+C:\Users\MİTHAT BOYNER\Desktop\yigit 4\4gün\4gün\bin\Debug\4gün.exe
+C:\Users\MİTHAT BOYNER\Desktop\yigit 4\4gün\4gün\bin\Debug\4gün.pdb
+C:\Users\MİTHAT BOYNER\Desktop\yigit 4\4gün\4gün\obj\Debug\4gün.exe
+C:\Users\MİTHAT BOYNER\Desktop\yigit 4\4gün\4gün\obj\Debug\4gün.pdb
+C:\Users\MİTHAT BOYNER\Desktop\4gün\4gün\bin\Debug\4gün.exe.config
+C:\Users\MİTHAT BOYNER\Desktop\4gün\4gün\obj\Debug\4gün.exe
+C:\Users\MİTHAT BOYNER\Desktop\4gün\4gün\obj\Debug\4gün.pdb

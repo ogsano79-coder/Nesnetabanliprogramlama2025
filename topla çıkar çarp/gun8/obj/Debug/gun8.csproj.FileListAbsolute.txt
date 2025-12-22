@@ -1,0 +1,9 @@
+C:\Users\MİTHAT BOYNER\Desktop\gun8\gun8\bin\Debug\gun8.exe.config
+C:\Users\MİTHAT BOYNER\Desktop\gun8\gun8\bin\Debug\gun8.exe
+C:\Users\MİTHAT BOYNER\Desktop\gun8\gun8\bin\Debug\gun8.pdb
+C:\Users\MİTHAT BOYNER\Desktop\gun8\gun8\obj\Debug\gun8.csprojResolveAssemblyReference.cache
+C:\Users\MİTHAT BOYNER\Desktop\gun8\gun8\obj\Debug\gun8.Form1.resources
+C:\Users\MİTHAT BOYNER\Desktop\gun8\gun8\obj\Debug\gun8.Properties.Resources.resources
+C:\Users\MİTHAT BOYNER\Desktop\gun8\gun8\obj\Debug\gun8.csproj.GenerateResource.Cache
+C:\Users\MİTHAT BOYNER\Desktop\gun8\gun8\obj\Debug\gun8.exe
+C:\Users\MİTHAT BOYNER\Desktop\gun8\gun8\obj\Debug\gun8.pdb
