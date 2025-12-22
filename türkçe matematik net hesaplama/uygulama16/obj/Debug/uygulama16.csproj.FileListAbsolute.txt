@@ -1,0 +1,18 @@
+C:\Users\MİTHAT BOYNER\Desktop\uygulama16\uygulama16\bin\Debug\uygulama16.exe.config
+C:\Users\MİTHAT BOYNER\Desktop\uygulama16\uygulama16\bin\Debug\uygulama16.exe
+C:\Users\MİTHAT BOYNER\Desktop\uygulama16\uygulama16\bin\Debug\uygulama16.pdb
+C:\Users\MİTHAT BOYNER\Desktop\uygulama16\uygulama16\obj\Debug\uygulama16.csprojResolveAssemblyReference.cache
+C:\Users\MİTHAT BOYNER\Desktop\uygulama16\uygulama16\obj\Debug\uygulama16.Form1.resources
+C:\Users\MİTHAT BOYNER\Desktop\uygulama16\uygulama16\obj\Debug\uygulama16.Properties.Resources.resources
+C:\Users\MİTHAT BOYNER\Desktop\uygulama16\uygulama16\obj\Debug\uygulama16.csproj.GenerateResource.Cache
+C:\Users\MİTHAT BOYNER\Desktop\uygulama16\uygulama16\obj\Debug\uygulama16.exe
+C:\Users\MİTHAT BOYNER\Desktop\uygulama16\uygulama16\obj\Debug\uygulama16.pdb
+C:\Users\MİTHAT BOYNER\Desktop\türkçe matematik net hesaplama\uygulama16\bin\Debug\uygulama16.exe.config
+C:\Users\MİTHAT BOYNER\Desktop\türkçe matematik net hesaplama\uygulama16\obj\Debug\uygulama16.exe
+C:\Users\MİTHAT BOYNER\Desktop\türkçe matematik net hesaplama\uygulama16\obj\Debug\uygulama16.pdb
+C:\Users\MİTHAT BOYNER\Desktop\türkçe matematik net hesaplama\uygulama16\bin\Debug\uygulama16.exe
+C:\Users\MİTHAT BOYNER\Desktop\türkçe matematik net hesaplama\uygulama16\bin\Debug\uygulama16.pdb
+C:\Users\MİTHAT BOYNER\Desktop\türkçe matematik net hesaplama\uygulama16\obj\Debug\uygulama16.csprojResolveAssemblyReference.cache
+C:\Users\MİTHAT BOYNER\Desktop\türkçe matematik net hesaplama\uygulama16\obj\Debug\uygulama16.Form1.resources
+C:\Users\MİTHAT BOYNER\Desktop\türkçe matematik net hesaplama\uygulama16\obj\Debug\uygulama16.Properties.Resources.resources
+C:\Users\MİTHAT BOYNER\Desktop\türkçe matematik net hesaplama\uygulama16\obj\Debug\uygulama16.csproj.GenerateResource.Cache
