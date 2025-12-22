@@ -1,0 +1,9 @@
+C:\Users\MİTHAT BOYNER\Desktop\for döngüsü\for döngüsü\bin\Debug\for döngüsü.exe.config
+C:\Users\MİTHAT BOYNER\Desktop\for döngüsü\for döngüsü\bin\Debug\for döngüsü.exe
+C:\Users\MİTHAT BOYNER\Desktop\for döngüsü\for döngüsü\bin\Debug\for döngüsü.pdb
+C:\Users\MİTHAT BOYNER\Desktop\for döngüsü\for döngüsü\obj\Debug\for döngüsü.csprojResolveAssemblyReference.cache
+C:\Users\MİTHAT BOYNER\Desktop\for döngüsü\for döngüsü\obj\Debug\for_döngüsü.Form1.resources
+C:\Users\MİTHAT BOYNER\Desktop\for döngüsü\for döngüsü\obj\Debug\for_döngüsü.Properties.Resources.resources
+C:\Users\MİTHAT BOYNER\Desktop\for döngüsü\for döngüsü\obj\Debug\for döngüsü.csproj.GenerateResource.Cache
+C:\Users\MİTHAT BOYNER\Desktop\for döngüsü\for döngüsü\obj\Debug\for döngüsü.exe
+C:\Users\MİTHAT BOYNER\Desktop\for döngüsü\for döngüsü\obj\Debug\for döngüsü.pdb
