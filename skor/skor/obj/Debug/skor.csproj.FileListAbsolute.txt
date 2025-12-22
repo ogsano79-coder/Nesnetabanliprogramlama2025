@@ -1,0 +1,9 @@
+C:\Users\MİTHAT BOYNER\Desktop\skor\skor\bin\Debug\skor.exe.config
+C:\Users\MİTHAT BOYNER\Desktop\skor\skor\bin\Debug\skor.exe
+C:\Users\MİTHAT BOYNER\Desktop\skor\skor\bin\Debug\skor.pdb
+C:\Users\MİTHAT BOYNER\Desktop\skor\skor\obj\Debug\skor.csprojResolveAssemblyReference.cache
+C:\Users\MİTHAT BOYNER\Desktop\skor\skor\obj\Debug\skor.Form1.resources
+C:\Users\MİTHAT BOYNER\Desktop\skor\skor\obj\Debug\skor.Properties.Resources.resources
+C:\Users\MİTHAT BOYNER\Desktop\skor\skor\obj\Debug\skor.csproj.GenerateResource.Cache
+C:\Users\MİTHAT BOYNER\Desktop\skor\skor\obj\Debug\skor.exe
+C:\Users\MİTHAT BOYNER\Desktop\skor\skor\obj\Debug\skor.pdb

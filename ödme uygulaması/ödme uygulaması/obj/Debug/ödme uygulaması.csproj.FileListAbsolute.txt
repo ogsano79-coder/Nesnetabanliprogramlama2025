@@ -1,0 +1,9 @@
+C:\Users\MİTHAT BOYNER\Desktop\ödme uygulaması\ödme uygulaması\bin\Debug\ödme uygulaması.exe.config
+C:\Users\MİTHAT BOYNER\Desktop\ödme uygulaması\ödme uygulaması\bin\Debug\ödme uygulaması.exe
+C:\Users\MİTHAT BOYNER\Desktop\ödme uygulaması\ödme uygulaması\bin\Debug\ödme uygulaması.pdb
+C:\Users\MİTHAT BOYNER\Desktop\ödme uygulaması\ödme uygulaması\obj\Debug\ödme uygulaması.csprojResolveAssemblyReference.cache
+C:\Users\MİTHAT BOYNER\Desktop\ödme uygulaması\ödme uygulaması\obj\Debug\ödme_uygulaması.Form1.resources
+C:\Users\MİTHAT BOYNER\Desktop\ödme uygulaması\ödme uygulaması\obj\Debug\ödme_uygulaması.Properties.Resources.resources
+C:\Users\MİTHAT BOYNER\Desktop\ödme uygulaması\ödme uygulaması\obj\Debug\ödme uygulaması.csproj.GenerateResource.Cache
+C:\Users\MİTHAT BOYNER\Desktop\ödme uygulaması\ödme uygulaması\obj\Debug\ödme uygulaması.exe
+C:\Users\MİTHAT BOYNER\Desktop\ödme uygulaması\ödme uygulaması\obj\Debug\ödme uygulaması.pdb
