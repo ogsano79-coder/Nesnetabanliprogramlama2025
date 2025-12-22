@@ -1,0 +1,8 @@
+C:\Users\MİTHAT BOYNER\Desktop\yuzde18\yuzde18\bin\Debug\yuzde18.exe.config
+C:\Users\MİTHAT BOYNER\Desktop\yuzde18\yuzde18\obj\Debug\yuzde18.Form1.resources
+C:\Users\MİTHAT BOYNER\Desktop\yuzde18\yuzde18\obj\Debug\yuzde18.Properties.Resources.resources
+C:\Users\MİTHAT BOYNER\Desktop\yuzde18\yuzde18\obj\Debug\yuzde18.csproj.GenerateResource.Cache
+C:\Users\MİTHAT BOYNER\Desktop\yuzde18\yuzde18\bin\Debug\yuzde18.exe
+C:\Users\MİTHAT BOYNER\Desktop\yuzde18\yuzde18\bin\Debug\yuzde18.pdb
+C:\Users\MİTHAT BOYNER\Desktop\yuzde18\yuzde18\obj\Debug\yuzde18.exe
+C:\Users\MİTHAT BOYNER\Desktop\yuzde18\yuzde18\obj\Debug\yuzde18.pdb
