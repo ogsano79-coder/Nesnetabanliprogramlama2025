@@ -1,0 +1,31 @@
+C:\Users\Casper\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Casper\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Casper\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Casper\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Casper\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Casper\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Casper\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Casper\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Casper\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\MİTHAT BOYNER\Desktop\not defteri\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\MİTHAT BOYNER\Desktop\not defteri\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\MİTHAT BOYNER\Desktop\not defteri\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\MİTHAT BOYNER\Desktop\not defteri\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\MİTHAT BOYNER\Desktop\not defteri\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\MİTHAT BOYNER\Desktop\not defteri\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\MİTHAT BOYNER\Desktop\not defteri\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\MİTHAT BOYNER\Desktop\not defteri\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\MİTHAT BOYNER\Desktop\not defteri\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\MİTHAT BOYNER\Desktop\not defteri\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\MİTHAT BOYNER\Desktop\not defteri\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\MİTHAT BOYNER\Desktop\kaydetme 10.uygulama\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\MİTHAT BOYNER\Desktop\kaydetme 10.uygulama\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\MİTHAT BOYNER\Desktop\kaydetme 10.uygulama\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\MİTHAT BOYNER\Desktop\kaydetme 10.uygulama\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\MİTHAT BOYNER\Desktop\kaydetme 10.uygulama\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\MİTHAT BOYNER\Desktop\kaydetme 10.uygulama\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\MİTHAT BOYNER\Desktop\kaydetme 10.uygulama\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\MİTHAT BOYNER\Desktop\kaydetme 10.uygulama\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\MİTHAT BOYNER\Desktop\kaydetme 10.uygulama\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\MİTHAT BOYNER\Desktop\kaydetme 10.uygulama\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\MİTHAT BOYNER\Desktop\kaydetme 10.uygulama\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
