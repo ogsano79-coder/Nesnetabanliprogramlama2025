@@ -1,0 +1,20 @@
+C:\Users\MİTHAT BOYNER\Desktop\sayaçlar\sayaçlar\bin\Debug\sayaçlar.exe.config
+C:\Users\MİTHAT BOYNER\Desktop\sayaçlar\sayaçlar\bin\Debug\sayaçlar.exe
+C:\Users\MİTHAT BOYNER\Desktop\sayaçlar\sayaçlar\bin\Debug\sayaçlar.pdb
+C:\Users\MİTHAT BOYNER\Desktop\sayaçlar\sayaçlar\obj\Debug\sayaçlar.csprojResolveAssemblyReference.cache
+C:\Users\MİTHAT BOYNER\Desktop\sayaçlar\sayaçlar\obj\Debug\sayaçlar.Form1.resources
+C:\Users\MİTHAT BOYNER\Desktop\sayaçlar\sayaçlar\obj\Debug\sayaçlar.Properties.Resources.resources
+C:\Users\MİTHAT BOYNER\Desktop\sayaçlar\sayaçlar\obj\Debug\sayaçlar.csproj.GenerateResource.Cache
+C:\Users\MİTHAT BOYNER\Desktop\sayaçlar\sayaçlar\obj\Debug\sayaçlar.exe
+C:\Users\MİTHAT BOYNER\Desktop\sayaçlar\sayaçlar\obj\Debug\sayaçlar.pdb
+C:\Users\MİTHAT BOYNER\Desktop\sayaçlar\sayaçlar\obj\Debug\sayaçlar.Form2.resources
+C:\Users\MİTHAT BOYNER\Desktop\at örneği\sayaçlar\bin\Debug\sayaçlar.exe.config
+C:\Users\MİTHAT BOYNER\Desktop\at örneği\sayaçlar\obj\Debug\sayaçlar.exe
+C:\Users\MİTHAT BOYNER\Desktop\at örneği\sayaçlar\obj\Debug\sayaçlar.pdb
+C:\Users\MİTHAT BOYNER\Desktop\at örneği\sayaçlar\bin\Debug\sayaçlar.exe
+C:\Users\MİTHAT BOYNER\Desktop\at örneği\sayaçlar\bin\Debug\sayaçlar.pdb
+C:\Users\MİTHAT BOYNER\Desktop\at örneği\sayaçlar\obj\Debug\sayaçlar.csprojResolveAssemblyReference.cache
+C:\Users\MİTHAT BOYNER\Desktop\at örneği\sayaçlar\obj\Debug\sayaçlar.Form1.resources
+C:\Users\MİTHAT BOYNER\Desktop\at örneği\sayaçlar\obj\Debug\sayaçlar.Form2.resources
+C:\Users\MİTHAT BOYNER\Desktop\at örneği\sayaçlar\obj\Debug\sayaçlar.Properties.Resources.resources
+C:\Users\MİTHAT BOYNER\Desktop\at örneği\sayaçlar\obj\Debug\sayaçlar.csproj.GenerateResource.Cache
