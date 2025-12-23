@@ -1,0 +1,17 @@
+INSERT INTO kitaplar (tur_id, kitap_adi, yazar, yayinevi, sayfa_sayisi) 
+VALUES (1, "Kuyucaklı Yusuf", "Sabahattin Ali", "Deneme",221), 
+(1, "Suç ve Ceza", "Dostoyevski", "Deneme",687), 
+(1, "Beyaz Gemi", "Cengiz Aytmatov", "Deneme",168), 
+(1, "Sinekli Bakkal", "Halide Edib Adıvar", "Örnek", 476), 
+(1, "Çalıkuşu", "Reşat Nuri Güntekin", "Örnek",544), 
+(1, "Sefiller", "Victor Hugo", "Örnek", 520), 
+(2, "Ömer Seyfettin Hikayelerinden Seçmeler", "Ömer Seyfettin", "Deneme",176), 
+(1, "Küçük Ağa", "Tarık Buğra", "Deneme",477), 
+(1, "Yaban", "Yakup Kadri Karaosmanoğlu", "Deneme",215), 
+(1, "Ölü Canlar", "Gogol", "Örnek",484), 
+(3,"Otuz Beş Yaş", "Cahit Sıtkı Tarancı", "Örnek", 120), 
+(3, "Safahat", "Mehmet Akif Ersoy", "Örnek",560), 
+(3,"Çile", "Necip Fazıl Kısakürek", "Deneme", 512), 
+(3, "Bütün Şiirleri Orhan Veli", "Orhan Veli Kanık", "Örnek", 247), 
+(4, "Anadolu Notları", "Reşat Nuri Güntekin", "Örnek", 287), 
+(4, "Seyahatname", "Evliya Çelebi", "Deneme",828)
